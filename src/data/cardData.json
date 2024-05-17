@@ -1,0 +1,301 @@
+[
+    {
+        "id": 1,
+        "name": "MARGERITA",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 59,
+                "description": "Regular size margherita pizza"
+            },
+            "medium": {
+                "price": 150,
+                "description": "Medium size margherita pizza"
+            },
+            "large": {
+                "price": 219,
+                "description": "Large size margherita pizza"
+            }
+        },
+        "description": "A hugely popular margherita, with a deliciously tangy single cheese topping",
+        "image": "https://www.dominos.co.in/files/items/Margherit.jpg"
+    },
+    {    "id": 2,
+        "name": "PEPPERONI",
+        "category": "Pizza",
+        "foodType": "Non-Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 99,
+                "description": "Regular size pepperoni pizza"
+            },
+            "medium": {
+                "price": 179,
+                "description": "Medium size pepperoni pizza"
+            },
+            "large": {
+                "price": 259,
+                "description": "Large size pepperoni pizza"
+            }
+        },
+        "description": "Classic pepperoni pizza with spicy pepperoni slices and extra cheese",
+        "image": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg"
+    },
+    {
+        "id": 3,
+        "name": "VEGGIE PARADISE",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 79,
+                "description": "Regular size veggie supreme pizza"
+            },
+            "medium": {
+                "price": 169,
+                "description": "Medium size veggie supreme pizza"
+            },
+            "large": {
+                "price": 239,
+                "description": "Large size veggie supreme pizza"
+            }
+        },
+        "description": "Loaded with fresh vegetables like bell peppers, onions, tomatoes, and olives",
+        "image": "https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg"
+    },
+    {
+        "id": 4,
+        "name": "CHICKEN BBQ",
+        "category": "Pizza",
+        "foodType": "Non-Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 109,
+                "description": "Regular size chicken BBQ pizza"
+            },
+            "medium": {
+                "price": 189,
+                "description": "Medium size chicken BBQ pizza"
+            },
+            "large": {
+                "price": 269,
+                "description": "Large size chicken BBQ pizza"
+            }
+        },
+        "description": "Savory chicken pieces, BBQ sauce, and red onions atop a cheesy crust",
+        "image": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(15).png"
+    },
+    {
+        "id": 5,
+        "name": "FARMHOUSE",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 89,
+                "description": "Regular size farmhouse pizza"
+            },
+            "medium": {
+                "price": 169,
+                "description": "Medium size farmhouse pizza"
+            },
+            "large": {
+                "price": 249,
+                "description": "Large size farmhouse pizza"
+            }
+        },
+        "description": "A delightful combination of fresh veggies and creamy cheese",
+        "image": "https://www.dominos.co.in/files/items/Farmhouse.jpg"
+    },
+    {
+        "id": 6,
+        "name": "CHEESEBURST",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 129,
+                "description": "Regular size cheeseburst pizza"
+            },
+            "medium": {
+                "price": 219,
+                "description": "Medium size cheeseburst pizza"
+            },
+            "large": {
+                "price": 299,
+                "description": "Large size cheeseburst pizza"
+            }
+        },
+        "description": "Indulge in a burst of cheesy goodness with every bite",
+        "image": "https://www.dominos.co.in/files/items/PIZ0171.jpg"
+    },
+    {
+        "id": 7,
+        "name": "VEGGIE EXTRAVAGANZA",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 109,
+                "description": "Regular size pesto passion pizza"
+            },
+            "medium": {
+                "price": 199,
+                "description": "Medium size pesto passion pizza"
+            },
+            "large": {
+                "price": 279,
+                "description": "Large size pesto passion pizza"
+            }
+        },
+        "description": "Experience the richness of pesto sauce combined with fresh veggies",
+        "image": "https://www.dominos.co.in/files/items/Veg_Extravaganz.jpg"
+    },
+    {
+        "id": 8,
+        "name": "INDI CHICKEN TIKKA",
+        "category": "Pizza",
+        "foodType": "Non-Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 109,
+                "description": "Regular size chicken tikka pizza"
+            },
+            "medium": {
+                "price": 199,
+                "description": "Medium size chicken tikka pizza"
+            },
+            "large": {
+                "price": 279,
+                "description": "Large size chicken tikka pizza"
+            }
+        },
+        "description": "Tender chicken tikka pieces with a blend of Indian spices",
+        "image": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(18).png"
+    },
+    {
+        "id": 9,
+        "name": "CHICKEN DOMINATOR",
+        "category": "Pizza",
+        "foodType": "Non-Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 109,
+                "description": "Regular size spicy chicken pizza"
+            },
+            "medium": {
+                "price": 199,
+                "description": "Medium size spicy chicken pizza"
+            },
+            "large": {
+                "price": 279,
+                "description": "Large size spicy chicken pizza"
+            }
+        },
+        "description": "For those who love a kick of spice, topped with fiery chicken chunks",
+        "image": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(11).png"
+    },
+    {
+        "id": 10,
+        "name": "CHEESE N CORN",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 79,
+                "description": "Regular size cheese n corn pizza"
+            },
+            "medium": {
+                "price": 169,
+                "description": "Medium size cheese n corn pizza"
+            },
+            "large": {
+                "price": 239,
+                "description": "Large size cheese n corn pizza"
+            }
+        },
+        "description": "Enjoy the sweet crunch of corn kernels paired with gooey cheese",
+        "image": "https://www.dominos.co.in/files/items/Corn_&_Cheese.jpg"
+    },
+    {
+        "id": 11,
+        "name": "DOUBLE CHEESE MARGHERITA",
+        "category": "Pizza",
+        "foodType": "Vegetarian",
+        "sizes": {
+            "regular": {
+                "price": 99,
+                "description": "Regular size double cheese margherita pizza"
+            },
+            "medium": {
+                "price": 179,
+                "description": "Medium size double cheese margherita pizza"
+            },
+            "large": {
+                "price": 259,
+                "description": "Large size double cheese margherita pizza"
+            }
+        },
+        "description": "Twice the cheesy goodness in every slice of this classic margherita pizza",
+        "image": "https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg"
+    }, 
+    
+        {
+            "id": 12,
+            "name": "GARLIC BREADSTICKS",
+            "category": "Sides & Beverages",
+            "foodType": "Vegetarian",
+            "sizes": {
+                "regular": {
+                    "price": 99,
+                    "description": "Regular size garlic breadsticks"
+                }
+            },
+            "description": "Soft breadsticks brushed with garlic butter and herbs",
+            "image": "https://www.dominos.co.in/files/items/garlic-bread.webp"
+        },
+        {
+            "id": 13,
+            "name": "CHICKEN PARCEL",
+            "category": "Sides & Beverages",
+            "foodType": "Non-Vegetarian",
+            "sizes": {
+                "regular": {
+                    "price": 79,
+                    "description": "Regular size potato wedges"
+                }
+            },
+            "description": "Crispy potato wedges seasoned with spices",
+            "image": "https://www.dominos.co.in/files/items/150135_Aha_Non_Veg_439x307-01.jpg"
+        },
+        {
+            "id": 14,
+            "name": "BUTTERSCOTCH MOUSSE CAKE",
+            "category": "Sides & Beverages",
+            "foodType": "Vegetarian",
+            "sizes": {
+                "regular": {
+                    "price": 69,
+                    "description": "Regular size cold coffee"
+                }
+            },
+            "description": "Refreshing cold coffee with a creamy texture",
+            "image": "https://www.dominos.co.in/files/items/170046_BMC_image_for_Website_272X272.jpg"
+        },
+        {
+            "id": 15,
+            "name": "PEPSI (475ML)",
+            "category": "Sides & Beverages",
+            "foodType": "Vegetarian",
+            "sizes": {
+                "regular": {
+                    "price": 49,
+                    "description": "Regular size cold drink"
+                }
+            },
+            "description": "Chilled carbonated beverages available in various flavors",
+            "image": "https://www.dominos.co.in/files/items/pepsi.png"
+        }
+    ]
+    

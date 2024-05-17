@@ -3,7 +3,7 @@
         "id": 1,
         "name": "MARGERITA",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 59,
@@ -24,7 +24,7 @@
     {    "id": 2,
         "name": "PEPPERONI",
         "category": "Pizza",
-        "foodType": "Non-Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 99,
@@ -46,7 +46,7 @@
         "id": 3,
         "name": "VEGGIE PARADISE",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 79,
@@ -68,7 +68,7 @@
         "id": 4,
         "name": "CHICKEN BBQ",
         "category": "Pizza",
-        "foodType": "Non-Vegetarian",
+        "foodType": "Non-Veg",
         "sizes": {
             "regular": {
                 "price": 109,
@@ -90,7 +90,7 @@
         "id": 5,
         "name": "FARMHOUSE",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 89,
@@ -112,7 +112,7 @@
         "id": 6,
         "name": "CHEESEBURST",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 129,
@@ -134,7 +134,7 @@
         "id": 7,
         "name": "VEGGIE EXTRAVAGANZA",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 109,
@@ -156,7 +156,7 @@
         "id": 8,
         "name": "INDI CHICKEN TIKKA",
         "category": "Pizza",
-        "foodType": "Non-Vegetarian",
+        "foodType": "Non-Veg",
         "sizes": {
             "regular": {
                 "price": 109,
@@ -178,7 +178,7 @@
         "id": 9,
         "name": "CHICKEN DOMINATOR",
         "category": "Pizza",
-        "foodType": "Non-Vegetarian",
+        "foodType": "Non-Veg",
         "sizes": {
             "regular": {
                 "price": 109,
@@ -200,7 +200,7 @@
         "id": 10,
         "name": "CHEESE N CORN",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 79,
@@ -222,7 +222,7 @@
         "id": 11,
         "name": "DOUBLE CHEESE MARGHERITA",
         "category": "Pizza",
-        "foodType": "Vegetarian",
+        "foodType": "Veg",
         "sizes": {
             "regular": {
                 "price": 99,
@@ -245,7 +245,7 @@
             "id": 12,
             "name": "GARLIC BREADSTICKS",
             "category": "Sides & Beverages",
-            "foodType": "Vegetarian",
+            "foodType": "Veg",
             "sizes": {
                 "regular": {
                     "price": 99,
@@ -259,7 +259,7 @@
             "id": 13,
             "name": "CHICKEN PARCEL",
             "category": "Sides & Beverages",
-            "foodType": "Non-Vegetarian",
+            "foodType": "Non-Veg",
             "sizes": {
                 "regular": {
                     "price": 79,
@@ -273,7 +273,7 @@
             "id": 14,
             "name": "BUTTERSCOTCH MOUSSE CAKE",
             "category": "Sides & Beverages",
-            "foodType": "Vegetarian",
+            "foodType": "Veg",
             "sizes": {
                 "regular": {
                     "price": 69,
@@ -287,7 +287,8 @@
             "id": 15,
             "name": "PEPSI (475ML)",
             "category": "Sides & Beverages",
-            "foodType": "Vegetarian",
+            "foodType": "Veg",
+           
             "sizes": {
                 "regular": {
                     "price": 49,
